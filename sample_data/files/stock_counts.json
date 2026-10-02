@@ -1,0 +1,182 @@
+[
+ {
+  "counted_on": "2026-08-31",
+  "items": [
+   {
+    "sku": "chicken",
+    "on_hand": 37,
+    "unit": "kg"
+   },
+   {
+    "sku": "rice",
+    "on_hand": 20,
+    "unit": "50kg bag"
+   },
+   {
+    "sku": "tilapia",
+    "on_hand": 25,
+    "unit": "kg"
+   },
+   {
+    "sku": "goat_meat",
+    "on_hand": 41,
+    "unit": "kg"
+   },
+   {
+    "sku": "palm_oil",
+    "on_hand": 31,
+    "unit": "5L"
+   },
+   {
+    "sku": "tomatoes",
+    "on_hand": 49,
+    "unit": "basket"
+   },
+   {
+    "sku": "beef",
+    "on_hand": 59,
+    "unit": "kg"
+   },
+   {
+    "sku": "oranges",
+    "on_hand": 51,
+    "unit": "100"
+   }
+  ]
+ },
+ {
+  "counted_on": "2026-08-24",
+  "items": [
+   {
+    "sku": "chicken",
+    "on_hand": 8,
+    "unit": "kg"
+   },
+   {
+    "sku": "rice",
+    "on_hand": 43,
+    "unit": "50kg bag"
+   },
+   {
+    "sku": "tilapia",
+    "on_hand": 46,
+    "unit": "kg"
+   },
+   {
+    "sku": "goat_meat",
+    "on_hand": 9,
+    "unit": "kg"
+   },
+   {
+    "sku": "palm_oil",
+    "on_hand": 52,
+    "unit": "5L"
+   },
+   {
+    "sku": "tomatoes",
+    "on_hand": 57,
+    "unit": "basket"
+   },
+   {
+    "sku": "beef",
+    "on_hand": 23,
+    "unit": "kg"
+   },
+   {
+    "sku": "oranges",
+    "on_hand": 40,
+    "unit": "100"
+   }
+  ]
+ },
+ {
+  "counted_on": "2026-08-17",
+  "items": [
+   {
+    "sku": "chicken",
+    "on_hand": 35,
+    "unit": "kg"
+   },
+   {
+    "sku": "rice",
+    "on_hand": 14,
+    "unit": "50kg bag"
+   },
+   {
+    "sku": "tilapia",
+    "on_hand": 18,
+    "unit": "kg"
+   },
+   {
+    "sku": "goat_meat",
+    "on_hand": 25,
+    "unit": "kg"
+   },
+   {
+    "sku": "palm_oil",
+    "on_hand": 19,
+    "unit": "5L"
+   },
+   {
+    "sku": "tomatoes",
+    "on_hand": 54,
+    "unit": "basket"
+   },
+   {
+    "sku": "beef",
+    "on_hand": 35,
+    "unit": "kg"
+   },
+   {
+    "sku": "oranges",
+    "on_hand": 48,
+    "unit": "100"
+   }
+  ]
+ },
+ {
+  "counted_on": "2026-08-10",
+  "items": [
+   {
+    "sku": "chicken",
+    "on_hand": 54,
+    "unit": "kg"
+   },
+   {
+    "sku": "rice",
+    "on_hand": 17,
+    "unit": "50kg bag"
+   },
+   {
+    "sku": "tilapia",
+    "on_hand": 52,
+    "unit": "kg"
+   },
+   {
+    "sku": "goat_meat",
+    "on_hand": 38,
+    "unit": "kg"
+   },
+   {
+    "sku": "palm_oil",
+    "on_hand": 12,
+    "unit": "5L"
+   },
+   {
+    "sku": "tomatoes",
+    "on_hand": 3,
+    "unit": "basket"
+   },
+   {
+    "sku": "beef",
+    "on_hand": 52,
+    "unit": "kg"
+   },
+   {
+    "sku": "oranges",
+    "on_hand": 13,
+    "unit": "100"
+   }
+  ]
+ }
+]

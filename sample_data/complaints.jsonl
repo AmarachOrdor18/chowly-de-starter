@@ -1,0 +1,276 @@
+{"complaint_id": 1, "order_id": 1, "rating": 1, "text": "Drinks were late", "created_at": "2026-05-01 19:53:27", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 2, "order_id": 8, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-05-01 22:22:05", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 3, "order_id": 31, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-05-02 15:38:16", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 4, "order_id": 35, "rating": 1, "text": "Waited far too long", "created_at": "2026-05-02 19:08:26", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 5, "order_id": 55, "rating": 2, "text": "Food came cold", "created_at": "2026-05-02 18:10:20", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 6, "order_id": 57, "rating": 0, "text": "Food came cold", "created_at": "2026-05-02 21:27:02", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 7, "order_id": 80, "rating": 4, "text": "Waited far too long", "created_at": "2026-05-03 19:15:53", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 8, "order_id": 88, "rating": 2, "text": "Wrong order", "created_at": "2026-05-03 21:58:54", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 9, "order_id": 98, "rating": 1, "text": "Great food but slow", "created_at": "2026-05-03 22:37:45", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 10, "order_id": 101, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-05-03 20:23:59", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 11, "order_id": 107, "rating": 3, "text": "Food came cold", "created_at": "2026-05-03 17:40:15", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 12, "order_id": 146, "rating": 2, "text": "Waited far too long", "created_at": "2026-05-05 20:58:01", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 13, "order_id": 159, "rating": 1, "text": "Food came cold", "created_at": "2026-05-05 13:05:29", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 14, "order_id": 165, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-05-06 19:38:56", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 15, "order_id": 174, "rating": 4, "text": "Food came cold", "created_at": "2026-05-06 22:50:06", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 16, "order_id": 184, "rating": 4, "text": "Music too loud", "created_at": "2026-05-06 22:32:31", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 17, "order_id": 227, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-05-08 20:58:47", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 18, "order_id": 238, "rating": 3, "text": "Great food but slow", "created_at": "2026-05-08 19:28:16", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 19, "order_id": 241, "rating": 2, "text": "Music too loud", "created_at": "2026-05-08 13:15:03", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 20, "order_id": 258, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-05-08 21:23:26", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 21, "order_id": 263, "rating": 2, "text": "Food came cold", "created_at": "2026-05-09 14:11:53", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 22, "order_id": 265, "rating": 0, "text": "Wrong order", "created_at": "2026-05-09 22:06:03", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 23, "order_id": 267, "rating": 1, "text": "Waited far too long", "created_at": "2026-05-09 18:49:23", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 24, "order_id": 275, "rating": 2, "text": "Wrong order", "created_at": "2026-05-09 20:11:41", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 25, "order_id": 283, "rating": 11, "text": "Food came cold", "created_at": "2026-05-09 23:23:26", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 26, "order_id": 286, "rating": 11, "text": "Wrong order", "created_at": "2026-05-09 22:21:28", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 27, "order_id": 289, "rating": 1, "text": "Great food but slow", "created_at": "2026-05-09 13:23:58", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 28, "order_id": 315, "rating": 2, "text": "Drinks were late", "created_at": "2026-05-10 13:52:11", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 29, "order_id": 319, "rating": 1, "text": "Waited far too long", "created_at": "2026-05-10 16:06:00", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 30, "order_id": 322, "rating": 1, "text": "Great food but slow", "created_at": "2026-05-10 21:38:46", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 31, "order_id": 325, "rating": 3, "text": "Wrong order", "created_at": "2026-05-10 14:14:33", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 32, "order_id": 335, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-05-10 15:46:16", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 33, "order_id": 362, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-05-11 16:05:12", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 34, "order_id": 400, "rating": 3, "text": "Great food but slow", "created_at": "2026-05-13 14:19:33", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 35, "order_id": 411, "rating": 4, "text": "Drinks were late", "created_at": "2026-05-14 18:29:57", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 36, "order_id": 423, "rating": 2, "text": "Great food but slow", "created_at": "2026-05-14 15:33:35", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 37, "order_id": 430, "rating": 11, "text": "Drinks were late", "created_at": "2026-05-15 15:34:09", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 38, "order_id": 443, "rating": 3, "text": "Food came cold", "created_at": "2026-05-15 20:46:04", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 39, "order_id": 450, "rating": 3, "text": "Table was sticky", "created_at": "2026-05-15 13:11:02", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 40, "order_id": 467, "rating": 3, "text": "Wrong order", "created_at": "2026-05-16 21:30:55", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 41, "order_id": 468, "rating": 2, "text": "Food came cold", "created_at": "2026-05-16 21:26:47", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 42, "order_id": 494, "rating": 3, "text": "Wrong order", "created_at": "2026-05-16 14:42:50", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 43, "order_id": 499, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-05-16 21:40:33", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 44, "order_id": 531, "rating": 1, "text": "Wrong order", "created_at": "2026-05-17 19:43:59", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 45, "order_id": 558, "rating": 1, "text": "Wrong order", "created_at": "2026-05-18 20:09:20", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 46, "order_id": 565, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-05-19 19:00:05", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 47, "order_id": 576, "rating": 7, "text": "Music too loud", "created_at": "2026-05-19 14:29:58", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 48, "order_id": 579, "rating": 1, "text": "Food came cold", "created_at": "2026-05-19 21:31:32", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 49, "order_id": 596, "rating": 1, "text": "Waited far too long", "created_at": "2026-05-20 14:41:42", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 50, "order_id": 607, "rating": 3, "text": "Wrong order", "created_at": "2026-05-20 13:27:24", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 51, "order_id": 611, "rating": 1, "text": "Wrong order", "created_at": "2026-05-20 21:42:04", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 52, "order_id": 618, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-05-21 20:58:24", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 53, "order_id": 655, "rating": 3, "text": "Wrong order", "created_at": "2026-05-22 13:14:48", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 54, "order_id": 660, "rating": 1, "text": "Waited far too long", "created_at": "2026-05-22 15:20:55", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 55, "order_id": 663, "rating": 1, "text": "Great food but slow", "created_at": "2026-05-22 19:52:10", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 56, "order_id": 669, "rating": 4, "text": "Wrong order", "created_at": "2026-05-22 18:22:33", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 57, "order_id": 678, "rating": 2, "text": "Wrong order", "created_at": "2026-05-23 15:31:56", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 58, "order_id": 687, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-05-23 13:25:20", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 59, "order_id": 692, "rating": 2, "text": "Food came cold", "created_at": "2026-05-23 16:46:13", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 60, "order_id": 693, "rating": 1, "text": "Great food but slow", "created_at": "2026-05-23 14:20:58", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 61, "order_id": 695, "rating": 3, "text": "Drinks were late", "created_at": "2026-05-23 15:01:39", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 62, "order_id": 699, "rating": 3, "text": "Table was sticky", "created_at": "2026-05-23 16:17:04", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 63, "order_id": 701, "rating": 3, "text": "Wrong order", "created_at": "2026-05-23 18:12:07", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 64, "order_id": 707, "rating": 3, "text": "Wrong order", "created_at": "2026-05-23 19:01:26", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 65, "order_id": 716, "rating": 4, "text": "Music too loud", "created_at": "2026-05-23 21:26:27", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 66, "order_id": 738, "rating": 7, "text": "Nobody told us about the delay", "created_at": "2026-05-24 13:40:24", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 67, "order_id": 739, "rating": 2, "text": "Food came cold", "created_at": "2026-05-24 14:16:36", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 68, "order_id": 743, "rating": 2, "text": "Drinks were late", "created_at": "2026-05-24 20:08:41", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 69, "order_id": 843, "rating": 3, "text": "Drinks were late", "created_at": "2026-05-28 18:28:06", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 70, "order_id": 892, "rating": 2, "text": "Waited far too long", "created_at": "2026-05-30 15:02:21", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 71, "order_id": 900, "rating": 0, "text": "Drinks were late", "created_at": "2026-05-30 16:41:26", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 72, "order_id": 901, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-05-30 20:57:08", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 73, "order_id": 915, "rating": 1, "text": "Great food but slow", "created_at": "2026-05-30 16:50:19", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 74, "order_id": 948, "rating": 2, "text": "Drinks were late", "created_at": "2026-05-31 22:43:16", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 75, "order_id": 969, "rating": 4, "text": "Wrong order", "created_at": "2026-06-01 21:52:48", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 76, "order_id": 982, "rating": 3, "text": "Nobody told us about the delay", "created_at": "2026-06-01 12:49:30", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 77, "order_id": 990, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-06-02 15:07:45", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 78, "order_id": 1004, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-06-02 15:06:56", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 79, "order_id": 1067, "rating": 1, "text": "Food came cold", "created_at": "2026-06-05 21:35:44", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 80, "order_id": 1092, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-06-05 20:26:27", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 81, "order_id": 1101, "rating": 2, "text": "Wrong order", "created_at": "2026-06-06 22:15:52", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 82, "order_id": 1103, "rating": 1, "text": "Drinks were late", "created_at": "2026-06-06 21:48:41", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 83, "order_id": 1113, "rating": 1, "text": "Waited far too long", "created_at": "2026-06-06 23:34:54", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 84, "order_id": 1123, "rating": 1, "text": "Wrong order", "created_at": "2026-06-06 14:45:58", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 85, "order_id": 1128, "rating": 1, "text": "Waited far too long", "created_at": "2026-06-06 21:01:04", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 86, "order_id": 1135, "rating": 1, "text": "Waited far too long", "created_at": "2026-06-06 21:55:06", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 87, "order_id": 1138, "rating": 3, "text": "Music too loud", "created_at": "2026-06-06 13:49:56", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 88, "order_id": 1141, "rating": 2, "text": "Food came cold", "created_at": "2026-06-06 13:47:13", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 89, "order_id": 1143, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-06-06 23:39:55", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 90, "order_id": 1156, "rating": 3, "text": "Wrong order", "created_at": "2026-06-07 12:41:09", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 91, "order_id": 1168, "rating": 1, "text": "Wrong order", "created_at": "2026-06-07 21:34:34", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 92, "order_id": 1169, "rating": 2, "text": "Waited far too long", "created_at": "2026-06-07 13:27:40", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 93, "order_id": 1172, "rating": 3, "text": "Waited far too long", "created_at": "2026-06-07 20:59:43", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 94, "order_id": 1179, "rating": 11, "text": "Nobody told us about the delay", "created_at": "2026-06-07 15:07:56", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 95, "order_id": 1197, "rating": 1, "text": "Drinks were late", "created_at": "2026-06-08 21:03:56", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 96, "order_id": 1211, "rating": 11, "text": "Drinks were late", "created_at": "2026-06-09 23:07:38", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 97, "order_id": 1216, "rating": 0, "text": "Drinks were late", "created_at": "2026-06-09 13:42:50", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 98, "order_id": 1223, "rating": 1, "text": "Drinks were late", "created_at": "2026-06-09 20:43:43", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 99, "order_id": 1227, "rating": 2, "text": "Food came cold", "created_at": "2026-06-09 14:56:09", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 100, "order_id": 1239, "rating": 7, "text": "Portion was small", "created_at": "2026-06-10 18:49:34", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 101, "order_id": 1242, "rating": 2, "text": "Waited far too long", "created_at": "2026-06-10 21:46:21", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 102, "order_id": 1276, "rating": 4, "text": "Food came cold", "created_at": "2026-06-11 17:57:47", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 103, "order_id": 1305, "rating": 2, "text": "Great food but slow", "created_at": "2026-06-12 16:16:56", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 104, "order_id": 1314, "rating": 2, "text": "Wrong order", "created_at": "2026-06-12 21:52:47", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 105, "order_id": 1340, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-06-13 15:10:45", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 106, "order_id": 1346, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-06-13 19:22:18", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 107, "order_id": 1350, "rating": 1, "text": "Waited far too long", "created_at": "2026-06-13 22:10:44", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 108, "order_id": 1351, "rating": 3, "text": "Food came cold", "created_at": "2026-06-13 16:25:42", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 109, "order_id": 1355, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-06-13 23:06:24", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 110, "order_id": 1370, "rating": 11, "text": "Great food but slow", "created_at": "2026-06-14 14:55:18", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 111, "order_id": 1380, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-06-14 15:51:42", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 112, "order_id": 1382, "rating": 3, "text": "Waited far too long", "created_at": "2026-06-14 14:44:11", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 113, "order_id": 1384, "rating": 3, "text": "Drinks were late", "created_at": "2026-06-14 21:58:57", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 114, "order_id": 1385, "rating": 2, "text": "Great food but slow", "created_at": "2026-06-14 22:48:16", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 115, "order_id": 1404, "rating": 1, "text": "Drinks were late", "created_at": "2026-06-14 19:54:45", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 116, "order_id": 1445, "rating": 4, "text": "Food came cold", "created_at": "2026-06-16 20:56:05", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 117, "order_id": 1463, "rating": 1, "text": "Food came cold", "created_at": "2026-06-17 17:58:52", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 118, "order_id": 1482, "rating": 7, "text": "Drinks were late", "created_at": "2026-06-17 21:03:26", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 119, "order_id": 1531, "rating": 1, "text": "Waited far too long", "created_at": "2026-06-19 16:09:43", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 120, "order_id": 1540, "rating": 1, "text": "Food came cold", "created_at": "2026-06-19 16:33:06", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 121, "order_id": 1551, "rating": 1, "text": "Drinks were late", "created_at": "2026-06-20 14:33:17", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 122, "order_id": 1563, "rating": 1, "text": "Drinks were late", "created_at": "2026-06-20 14:21:37", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 123, "order_id": 1564, "rating": 1, "text": "Food came cold", "created_at": "2026-06-20 17:51:51", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 124, "order_id": 1590, "rating": 1, "text": "Wrong order", "created_at": "2026-06-20 13:51:22", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 125, "order_id": 1611, "rating": 1, "text": "Wrong order", "created_at": "2026-06-21 12:30:30", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 126, "order_id": 1621, "rating": 4, "text": "Wrong order", "created_at": "2026-06-21 13:24:22", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 127, "order_id": 1635, "rating": 4, "text": "Table was sticky", "created_at": "2026-06-22 22:55:02", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 128, "order_id": 1645, "rating": 2, "text": "Great food but slow", "created_at": "2026-06-22 13:37:22", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 129, "order_id": 1654, "rating": 1, "text": "Wrong order", "created_at": "2026-06-23 17:58:40", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 130, "order_id": 1684, "rating": 2, "text": "Portion was small", "created_at": "2026-06-24 15:25:15", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 131, "order_id": 1691, "rating": 2, "text": "Wrong order", "created_at": "2026-06-24 21:55:46", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 132, "order_id": 1698, "rating": 3, "text": "Wrong order", "created_at": "2026-06-24 20:53:26", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 133, "order_id": 1702, "rating": 4, "text": "Music too loud", "created_at": "2026-06-24 20:57:24", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 134, "order_id": 1727, "rating": 3, "text": "Nobody told us about the delay", "created_at": "2026-06-25 15:05:26", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 135, "order_id": 1732, "rating": 2, "text": "Wrong order", "created_at": "2026-06-25 15:06:19", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 136, "order_id": 1743, "rating": 3, "text": "Nobody told us about the delay", "created_at": "2026-06-26 20:29:17", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 137, "order_id": 1747, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-06-26 19:22:34", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 138, "order_id": 1754, "rating": 1, "text": "Wrong order", "created_at": "2026-06-26 21:48:58", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 139, "order_id": 1756, "rating": 2, "text": "Wrong order", "created_at": "2026-06-26 20:26:16", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 140, "order_id": 1775, "rating": 2, "text": "Waited far too long", "created_at": "2026-06-26 21:41:30", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 141, "order_id": 1785, "rating": 1, "text": "Waited far too long", "created_at": "2026-06-27 17:44:44", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 142, "order_id": 1793, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-06-27 14:32:25", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 143, "order_id": 1799, "rating": 3, "text": "Drinks were late", "created_at": "2026-06-27 19:51:11", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 144, "order_id": 1818, "rating": 2, "text": "Food came cold", "created_at": "2026-06-28 21:08:25", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 145, "order_id": 1819, "rating": 3, "text": "Waited far too long", "created_at": "2026-06-28 20:48:03", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 146, "order_id": 1871, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-06-30 21:11:33", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 147, "order_id": 1888, "rating": 3, "text": "Food came cold", "created_at": "2026-06-30 23:12:45", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 148, "order_id": 1922, "rating": 3, "text": "Wrong order", "created_at": "2026-07-02 20:57:54", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 149, "order_id": 1924, "rating": 2, "text": "Great food but slow", "created_at": "2026-07-02 22:38:59", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 150, "order_id": 1936, "rating": 2, "text": "Great food but slow", "created_at": "2026-07-02 22:39:45", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 151, "order_id": 1937, "rating": 1, "text": "Wrong order", "created_at": "2026-07-03 14:35:55", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 152, "order_id": 1947, "rating": 2, "text": "Great food but slow", "created_at": "2026-07-03 14:11:12", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 153, "order_id": 1952, "rating": 3, "text": "Great food but slow", "created_at": "2026-07-03 18:18:31", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 154, "order_id": 1959, "rating": 2, "text": "Drinks were late", "created_at": "2026-07-03 13:30:45", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 155, "order_id": 1966, "rating": 4, "text": "Wrong order", "created_at": "2026-07-03 14:11:08", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 156, "order_id": 1967, "rating": 1, "text": "Food came cold", "created_at": "2026-07-03 21:11:07", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 157, "order_id": 1968, "rating": 2, "text": "Food came cold", "created_at": "2026-07-03 15:23:02", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 158, "order_id": 1986, "rating": 1, "text": "Wrong order", "created_at": "2026-07-04 16:10:08", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 159, "order_id": 1990, "rating": 1, "text": "Drinks were late", "created_at": "2026-07-04 20:53:33", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 160, "order_id": 2000, "rating": -1, "text": "Great food but slow", "created_at": "2026-07-04 19:41:21", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 161, "order_id": 2006, "rating": 3, "text": "Nobody told us about the delay", "created_at": "2026-07-04 21:19:51", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 162, "order_id": 2018, "rating": 3, "text": "Drinks were late", "created_at": "2026-07-05 22:38:53", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 163, "order_id": 2035, "rating": 2, "text": "Wrong order", "created_at": "2026-07-05 19:21:59", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 164, "order_id": 2038, "rating": 4, "text": "Food came cold", "created_at": "2026-07-05 14:30:51", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 165, "order_id": 2043, "rating": 1, "text": "Great food but slow", "created_at": "2026-07-05 14:17:33", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 166, "order_id": 2073, "rating": 0, "text": "Waited far too long", "created_at": "2026-07-07 14:09:39", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 167, "order_id": 2089, "rating": 2, "text": "Great food but slow", "created_at": "2026-07-07 20:15:10", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 168, "order_id": 2169, "rating": 3, "text": "Great food but slow", "created_at": "2026-07-10 19:56:41", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 169, "order_id": 2174, "rating": 3, "text": "Great food but slow", "created_at": "2026-07-10 20:10:06", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 170, "order_id": 2196, "rating": 2, "text": "Wrong order", "created_at": "2026-07-10 17:51:49", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 171, "order_id": 2206, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-07-10 22:25:23", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 172, "order_id": 2238, "rating": 2, "text": "Wrong order", "created_at": "2026-07-11 14:28:50", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 173, "order_id": 2255, "rating": 3, "text": "Portion was small", "created_at": "2026-07-12 22:14:39", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 174, "order_id": 2260, "rating": 7, "text": "Nobody told us about the delay", "created_at": "2026-07-12 20:44:16", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 175, "order_id": 2277, "rating": 2, "text": "Wrong order", "created_at": "2026-07-12 21:55:03", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 176, "order_id": 2289, "rating": 0, "text": "Great food but slow", "created_at": "2026-07-12 15:04:40", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 177, "order_id": 2290, "rating": 3, "text": "Waited far too long", "created_at": "2026-07-12 20:13:41", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 178, "order_id": 2299, "rating": 2, "text": "Food came cold", "created_at": "2026-07-13 13:22:03", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 179, "order_id": 2329, "rating": 2, "text": "Waited far too long", "created_at": "2026-07-14 16:03:24", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 180, "order_id": 2343, "rating": 11, "text": "Nobody told us about the delay", "created_at": "2026-07-15 16:25:53", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 181, "order_id": 2344, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-07-15 17:26:23", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 182, "order_id": 2351, "rating": 1, "text": "Drinks were late", "created_at": "2026-07-15 21:30:27", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 183, "order_id": 2371, "rating": 3, "text": "Music too loud", "created_at": "2026-07-16 21:19:34", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 184, "order_id": 2386, "rating": 1, "text": "Food came cold", "created_at": "2026-07-16 20:43:04", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 185, "order_id": 2424, "rating": 2, "text": "Portion was small", "created_at": "2026-07-17 14:51:06", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 186, "order_id": 2438, "rating": 2, "text": "Wrong order", "created_at": "2026-07-17 20:18:43", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 187, "order_id": 2439, "rating": 2, "text": "Wrong order", "created_at": "2026-07-17 15:01:29", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 188, "order_id": 2440, "rating": 1, "text": "Food came cold", "created_at": "2026-07-17 20:18:44", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 189, "order_id": 2444, "rating": 2, "text": "Drinks were late", "created_at": "2026-07-18 20:36:01", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 190, "order_id": 2448, "rating": 1, "text": "Waited far too long", "created_at": "2026-07-18 19:44:42", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 191, "order_id": 2460, "rating": 2, "text": "Food came cold", "created_at": "2026-07-18 15:16:59", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 192, "order_id": 2475, "rating": 2, "text": "Great food but slow", "created_at": "2026-07-19 17:48:43", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 193, "order_id": 2480, "rating": 3, "text": "Food came cold", "created_at": "2026-07-19 21:20:32", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 194, "order_id": 2503, "rating": 3, "text": "Food came cold", "created_at": "2026-07-19 12:27:46", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 195, "order_id": 2555, "rating": 1, "text": "Drinks were late", "created_at": "2026-07-21 21:41:06", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 196, "order_id": 2606, "rating": 3, "text": "Music too loud", "created_at": "2026-07-23 14:57:32", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 197, "order_id": 2624, "rating": 1, "text": "Food came cold", "created_at": "2026-07-24 21:35:35", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 198, "order_id": 2634, "rating": 2, "text": "Drinks were late", "created_at": "2026-07-24 23:12:51", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 199, "order_id": 2638, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-07-24 15:45:31", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 200, "order_id": 2675, "rating": 3, "text": "Portion was small", "created_at": "2026-07-25 13:10:31", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 201, "order_id": 2697, "rating": 4, "text": "Wrong order", "created_at": "2026-07-25 20:29:47", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 202, "order_id": 2707, "rating": 2, "text": "Wrong order", "created_at": "2026-07-26 22:21:29", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 203, "order_id": 2708, "rating": 4, "text": "Table was sticky", "created_at": "2026-07-26 19:51:48", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 204, "order_id": 2728, "rating": 3, "text": "Food came cold", "created_at": "2026-07-26 16:18:34", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 205, "order_id": 2736, "rating": 2, "text": "Music too loud", "created_at": "2026-07-27 19:12:40", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 206, "order_id": 2745, "rating": 2, "text": "Wrong order", "created_at": "2026-07-27 19:05:27", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 207, "order_id": 2760, "rating": 2, "text": "Drinks were late", "created_at": "2026-07-28 16:29:15", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 208, "order_id": 2823, "rating": 2, "text": "Drinks were late", "created_at": "2026-07-31 20:47:00", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 209, "order_id": 2854, "rating": 2, "text": "Food came cold", "created_at": "2026-07-31 14:42:04", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 210, "order_id": 2869, "rating": 2, "text": "Food came cold", "created_at": "2026-07-31 14:40:00", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 211, "order_id": 2870, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-07-31 15:00:19", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 212, "order_id": 2874, "rating": 2, "text": "Drinks were late", "created_at": "2026-08-01 12:16:01", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 213, "order_id": 2875, "rating": 1, "text": "Great food but slow", "created_at": "2026-08-01 14:53:53", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 214, "order_id": 2880, "rating": 3, "text": "Great food but slow", "created_at": "2026-08-01 22:22:03", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 215, "order_id": 2893, "rating": 1, "text": "Great food but slow", "created_at": "2026-08-01 21:29:19", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 216, "order_id": 2894, "rating": 3, "text": "Wrong order", "created_at": "2026-08-01 21:48:02", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 217, "order_id": 2896, "rating": -1, "text": "Great food but slow", "created_at": "2026-08-01 12:14:03", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 218, "order_id": 2899, "rating": 1, "text": "Drinks were late", "created_at": "2026-08-01 15:17:20", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 219, "order_id": 2904, "rating": 1, "text": "Food came cold", "created_at": "2026-08-01 18:01:12", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 220, "order_id": 2911, "rating": 2, "text": "Food came cold", "created_at": "2026-08-02 13:37:58", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 221, "order_id": 2916, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-08-02 15:23:14", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 222, "order_id": 2923, "rating": 2, "text": "Waited far too long", "created_at": "2026-08-02 21:53:34", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 223, "order_id": 2925, "rating": 4, "text": "Great food but slow", "created_at": "2026-08-02 19:18:27", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 224, "order_id": 2929, "rating": 2, "text": "Wrong order", "created_at": "2026-08-02 13:43:10", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 225, "order_id": 2935, "rating": 3, "text": "Wrong order", "created_at": "2026-08-02 22:52:34", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 226, "order_id": 2936, "rating": 3, "text": "Wrong order", "created_at": "2026-08-02 22:44:05", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 227, "order_id": 2968, "rating": 1, "text": "Drinks were late", "created_at": "2026-08-04 14:40:15", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 228, "order_id": 2981, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-08-04 17:29:23", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 229, "order_id": 2993, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-08-05 13:06:59", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 230, "order_id": 3025, "rating": 1, "text": "Wrong order", "created_at": "2026-08-07 14:09:50", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 231, "order_id": 3030, "rating": 1, "text": "Drinks were late", "created_at": "2026-08-07 21:24:39", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 232, "order_id": 3050, "rating": 2, "text": "Drinks were late", "created_at": "2026-08-07 18:08:50", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 233, "order_id": 3058, "rating": 1, "text": "Drinks were late", "created_at": "2026-08-07 15:56:26", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 234, "order_id": 3074, "rating": 3, "text": "Food came cold", "created_at": "2026-08-08 20:37:36", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 235, "order_id": 3075, "rating": 2, "text": "Wrong order", "created_at": "2026-08-08 19:27:06", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 236, "order_id": 3081, "rating": 1, "text": "Great food but slow", "created_at": "2026-08-08 14:49:31", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 237, "order_id": 3119, "rating": 11, "text": "Food came cold", "created_at": "2026-08-09 13:30:56", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 238, "order_id": 3121, "rating": 2, "text": "Food came cold", "created_at": "2026-08-09 21:00:03", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 239, "order_id": 3125, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-08-09 22:12:01", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 240, "order_id": 3158, "rating": 3, "text": "Music too loud", "created_at": "2026-08-11 15:08:27", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 241, "order_id": 3171, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-08-12 15:06:20", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 242, "order_id": 3281, "rating": 3, "text": "Drinks were late", "created_at": "2026-08-15 19:22:25", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 243, "order_id": 3284, "rating": 3, "text": "Nobody told us about the delay", "created_at": "2026-08-15 21:15:50", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 244, "order_id": 3288, "rating": 3, "text": "Food came cold", "created_at": "2026-08-15 23:22:54", "meta": {"channel": "app", "table_no": 1}}
+{"complaint_id": 245, "order_id": 3310, "rating": 1, "text": "Food came cold", "created_at": "2026-08-16 20:07:12", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 246, "order_id": 3325, "rating": 3, "text": "Waited far too long", "created_at": "2026-08-16 21:16:46", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 247, "order_id": 3328, "rating": 1, "text": "Great food but slow", "created_at": "2026-08-16 15:59:53", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 248, "order_id": 3352, "rating": 1, "text": "Great food but slow", "created_at": "2026-08-17 21:49:04", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 249, "order_id": 3360, "rating": 4, "text": "Great food but slow", "created_at": "2026-08-18 19:04:14", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 250, "order_id": 3378, "rating": 2, "text": "Great food but slow", "created_at": "2026-08-18 14:20:37", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 251, "order_id": 3403, "rating": 4, "text": "Portion was small", "created_at": "2026-08-19 19:47:31", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 252, "order_id": 3426, "rating": 2, "text": "Great food but slow", "created_at": "2026-08-20 21:24:59", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 253, "order_id": 3428, "rating": 3, "text": "Great food but slow", "created_at": "2026-08-21 20:02:20", "meta": {"channel": "app", "table_no": 7}}
+{"complaint_id": 254, "order_id": 3462, "rating": 1, "text": "Wrong order", "created_at": "2026-08-21 20:17:34", "meta": {"channel": "app", "table_no": 9}}
+{"complaint_id": 255, "order_id": 3473, "rating": 1, "text": "Great food but slow", "created_at": "2026-08-22 20:31:51", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 256, "order_id": 3484, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-08-23 00:36:37", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 257, "order_id": 3516, "rating": 1, "text": "Food came cold", "created_at": "2026-08-23 21:22:15", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 258, "order_id": 3520, "rating": 2, "text": "Nobody told us about the delay", "created_at": "2026-08-23 15:34:00", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 259, "order_id": 3525, "rating": 2, "text": "Waited far too long", "created_at": "2026-08-23 21:03:22", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 260, "order_id": 3535, "rating": 2, "text": "Waited far too long", "created_at": "2026-08-23 21:36:29", "meta": {"channel": "app", "table_no": 2}}
+{"complaint_id": 261, "order_id": 3550, "rating": 3, "text": "Nobody told us about the delay", "created_at": "2026-08-24 16:26:59", "meta": {"channel": "app", "table_no": 15}}
+{"complaint_id": 262, "order_id": 3575, "rating": 2, "text": "Food came cold", "created_at": "2026-08-24 13:28:31", "meta": {"channel": "app", "table_no": 14}}
+{"complaint_id": 263, "order_id": 3597, "rating": 1, "text": "Great food but slow", "created_at": "2026-08-25 13:39:07", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 264, "order_id": 3681, "rating": 7, "text": "Food came cold", "created_at": "2026-08-28 18:09:29", "meta": {"channel": "app", "table_no": 4}}
+{"complaint_id": 265, "order_id": 3686, "rating": 2, "text": "Great food but slow", "created_at": "2026-08-28 12:26:31", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 266, "order_id": 3709, "rating": 1, "text": "Nobody told us about the delay", "created_at": "2026-08-29 17:20:08", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 267, "order_id": 3710, "rating": 1, "text": "Waited far too long", "created_at": "2026-08-29 20:41:00", "meta": {"channel": "app", "table_no": 10}}
+{"complaint_id": 268, "order_id": 3713, "rating": 3, "text": "Music too loud", "created_at": "2026-08-29 13:05:43", "meta": {"channel": "app", "table_no": 5}}
+{"complaint_id": 269, "order_id": 3722, "rating": 1, "text": "Drinks were late", "created_at": "2026-08-29 21:43:36", "meta": {"channel": "app", "table_no": 12}}
+{"complaint_id": 270, "order_id": 3724, "rating": 2, "text": "Drinks were late", "created_at": "2026-08-29 20:17:00", "meta": {"channel": "app", "table_no": 11}}
+{"complaint_id": 271, "order_id": 3754, "rating": 2, "text": "Drinks were late", "created_at": "2026-08-30 19:30:14", "meta": {"channel": "app", "table_no": 6}}
+{"complaint_id": 272, "order_id": 3759, "rating": 1, "text": "Great food but slow", "created_at": "2026-08-30 12:44:35", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 273, "order_id": 3764, "rating": 3, "text": "Great food but slow", "created_at": "2026-08-30 21:08:56", "meta": {"channel": "app", "table_no": 3}}
+{"complaint_id": 274, "order_id": 3769, "rating": 2, "text": "Waited far too long", "created_at": "2026-08-30 14:43:06", "meta": {"channel": "app", "table_no": 8}}
+{"complaint_id": 275, "order_id": 3776, "rating": 1, "text": "Great food but slow", "created_at": "2026-08-30 14:24:48", "meta": {"channel": "app", "table_no": 13}}
+{"complaint_id": 276, "order_id": 3804, "rating": 2, "text": "Waited far too long", "created_at": "2026-08-31 16:06:20", "meta": {"channel": "app", "table_no": 3}}

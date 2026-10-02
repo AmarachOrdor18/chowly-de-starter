@@ -1,0 +1,10 @@
+staff_id,full_name,role,is_active,updated_at
+1,Ngozi Eze,waiter,1,2026-08-31 23:00:00
+2,Tunde Bakare,waiter,1,2026-08-31 23:00:00
+3,Amina Sule,waiter,1,2026-08-31 23:00:00
+4,Chidi Okafor,waiter,1,2026-08-31 23:00:00
+5,Emeka Nwosu,chef,1,2026-08-31 23:00:00
+6,Bisi Adeyemi,chef,1,2026-08-31 23:00:00
+7,Yusuf Bello,chef,1,2026-08-31 23:00:00
+8,Kelechi Obi,bartender,1,2026-08-31 23:00:00
+9,Funke Alade,bartender,1,2026-08-31 23:00:00

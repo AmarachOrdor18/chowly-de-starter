@@ -1,0 +1,25 @@
+item_id,name,category,price,prep_minutes,is_active,updated_at
+1,Jollof Rice and Chicken,food,4000,20,1,2026-08-31 23:00:00
+2,Fried Rice and Turkey,food,3800,22,1,2026-08-31 23:00:00
+3,Egusi Soup and Pounded Yam,food,4500,30,1,2026-08-31 23:00:00
+4,Pepper Soup (Goat),food,3000,18,1,2026-08-31 23:00:00
+5,Suya Platter,food,4000,25,1,2026-08-31 23:00:00
+6,Grilled Tilapia,food,6000,35,1,2026-08-31 23:00:00
+7,Ofada Rice and Stew,food,4200,28,1,2026-08-31 23:00:00
+8,Moi Moi,food,1200,15,1,2026-08-31 23:00:00
+9,Plantain and Eggs,food,2000,12,1,2026-08-31 23:00:00
+10,Beef Burger and Fries,food,4800,18,1,2026-08-31 23:00:00
+11,Chicken Shawarma,food,3200,12,1,2026-08-31 23:00:00
+12,Small Chops Platter,food,3600,15,1,2026-08-31 23:00:00
+13,Chapman,drink,2000,5,1,2026-08-31 23:00:00
+14,Zobo,drink,1200,3,1,2026-08-31 23:00:00
+15,Bottled Water,drink,500,1,1,2026-08-31 23:00:00
+16,Soft Drink,drink,700,1,1,2026-08-31 23:00:00
+17,Fresh Orange Juice,drink,1800,6,1,2026-08-31 23:00:00
+18,Smoothie,drink,2500,8,1,2026-08-31 23:00:00
+19,Palm Wine,drink,2000,3,1,2026-08-31 23:00:00
+20,Draught Beer,drink,1500,2,1,2026-08-31 23:00:00
+21,Red Wine Glass,drink,3500,2,1,2026-08-31 23:00:00
+22,Mojito,drink,3800,9,1,2026-08-31 23:00:00
+23,Iced Tea,drink,1500,4,1,2026-08-31 23:00:00
+24,Coffee,drink,1600,6,1,2026-08-31 23:00:00
